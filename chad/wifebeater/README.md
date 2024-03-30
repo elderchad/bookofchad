@@ -15,3 +15,7 @@ Dash: 36x27
 Spin jump: 24x24
 
 Death: 37x56
+
+Hurt: 20x31
+
+Hang idle: 23x37
