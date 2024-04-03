@@ -21,3 +21,6 @@ Hurt: 20x31
 Hang idle: 23x37
 
 Run shoot: 37x32 - There are 2 sets, one holding the gun, one shooting
+
+Land: 24x21
+
