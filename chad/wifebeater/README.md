@@ -29,3 +29,8 @@ Jump: 14x35
 Sword Bat: 85x49
 
 Ceiling Climb: 18x38
+
+Ceiling shoot: 34x38
+
+Drink coffee & beer: 23x38
+
