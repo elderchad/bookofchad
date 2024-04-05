@@ -26,3 +26,5 @@ Land: 24x21
 
 Jump: 14x35
 
+Sword Bat: 85x49
+
