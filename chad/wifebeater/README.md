@@ -34,3 +34,5 @@ Ceiling shoot: 34x38
 
 Drink coffee & beer: 23x38
 
+Shoot angle up: 28x42
+
