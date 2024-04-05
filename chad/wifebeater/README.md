@@ -28,3 +28,4 @@ Jump: 14x35
 
 Sword Bat: 85x49
 
+Ceiling Climb: 18x38
