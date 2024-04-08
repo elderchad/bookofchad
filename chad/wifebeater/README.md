@@ -1,6 +1,6 @@
 Sprite Sizes (pixels height x width)
 
-Run: 32x24
+Run: 25x32
 
 Smoke: 28x37
 
