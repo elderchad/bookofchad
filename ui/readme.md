@@ -1,1 +1,3 @@
-When a user highlights an item, the name of the item shows in the bottom section of the item menu. Ideally, I'd love a way to allow a user to optionally select to view more details about that item, so they can learn more of the lore-side of things. I imagine when a user does so, the item name at the bottom scrolls up to the top of the same window, and the bottom section is populated with the item icon and a description of the gameplay use and history.
+How the item menu looks
+
+![image](https://github.com/user-attachments/assets/5b499e70-34b8-446a-87f2-c14292dfba0e)
