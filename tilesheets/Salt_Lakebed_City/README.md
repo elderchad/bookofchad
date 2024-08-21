@@ -6,7 +6,7 @@ The character and the "layer" they are on, the parallax = 1. A non-scrolling bac
 
 ### Stars & Moon
 
-Size: 400x240 (full screen)
+Size: 426x240 (full screen)
 
 Static background (no parallax scrolling horizontally or vertically).
 
