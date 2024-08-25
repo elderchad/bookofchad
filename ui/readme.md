@@ -70,35 +70,38 @@ Joseph Smith put this stone inside his hat and looked within to translate the pl
 
 ### Tithing Slip
 
-Grants you access to obtain your Patriarchal Blessing.
+Grants you the ability to obtain your Patriarchal Blessing.
 
 This receipt is obtained to keep a record of your tithe payments. You wouldn't want to miss out on becoming a fucking god!
 
 #### Patriarchal Blessing
 
-
+An ordinance administered by the laying on of hands and inspired by the Holy Ghost, containing the recipient's lineage in relation to the twelve tribles of Israel, along with personal guidance, counsel and promise.
 
 ### Temple Recommend
 
+Super cool club card to get into the exclusive house of dad.
 
+Every full-tithe-paying non-gay-practicing Smitty who doesn't jerk off is given this card which is used to get in the Temple so you can perform those really cool, awe-inspiring, not creepy at all rituals.
 
 ### Missionary Name Tag
 
-
+Every Smitty serving a mission is given one of these to be worn while proselytizing. On it is written "Elder", followed by the owner's last name. Chad got to go on a mission, and he hasn't even grow a foot or two.
 
 ### Coffee
 
-
+Increase your energy with this delicious and aromatic brew from the finest arabica beans, picked by the world's finest slave laborers.
 
 ### Cigarette
 
-
+Look cool as fuck in flavor country while you inhale this delicious concoction of tobacco, tar, ammonia, methane and other high-end chemicals to increase your energy.
 
 ### Beer
 
-
+Chug this stout like a fucking man and increase your energy. Get picking up some hot tail for a steamy night, but make sure to use a fake name in case your huge fertile dick knocks her up.
 
 ### Weed
 
+Hotbox this bomb ass dank ass crystalized perpskerp with your bros and start trippin' blaze and talkin' about how fuckin' deep Tool is, bro.
 
-
+(Others I'll work on later, and we can update these ones as needed. Just first draft to get placeholder text going.)
