@@ -1,5 +1,12 @@
 # The Book of Chad
+
 Another Testament of the Church of Jesus Christ of Latter-day Saints
+
+Cabin Demo Bros :tm:
+
+In a world where Mormonism actually exists, one hero is hell bent on fucking up Heavenly Father's plan. Armed with magic religious artifacts, join forces with the world's first murderer, Cain, and Lucifer himself, as you track down those pesky Smitties and leave no more hiding places for that ultimate rascal, Elohim.
+
+A side-scrolling adventure platformer
 
 ## Links
 
