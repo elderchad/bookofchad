@@ -2,7 +2,7 @@ Sprite Sizes (pixels height x width)
 
 Run: 25x32
 
-Smoke: 28x37
+Smoke: 28x37 (order of frames in animation: 1>2>3>4>(infinite loop: 5>6>5>6>5>6>7>8>9>7), 1-4 only plays the single time to start)
 
 Shoot: 34x32
 
