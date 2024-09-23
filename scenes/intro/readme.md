@@ -1,59 +1,37 @@
 Background is 7 screens in height (1680px).
 
-The camera starts at the top, and the logo fades in for a few (2?) seconds and fades out right in the center of the screen.
+Camera starts at the very top of background.png. It scrolls a total of 1440px initially over a period of 8.5 seconds to rest 240px above the bottom, come to a temporary stop above the earth.png and moon.png. Those 8.5 seconds are broken down as:
 
-The camera then scrolls down from the top slowly until it hits 480px from the bottom (2 screen heights) where it will stop, and the Earth and Moon will be near the bottom of the screen in that position.
+.5s blank
 
-As the screen scrolls, account.png fades in for ~2 sec and then fades out again.
+3s - logo.png fades in, holds, and fades out
 
-Wait ~1 sec
+.5s blank
 
-The logo fades in for a few (2-3?) seconds and fades out right in the center of the screen (logo.png frame order: 0, 1, 2, 3 (hold for a few seconds here), 2, 1, 0, destroy).
+3s - account.png fades in, holds, and fades out
 
-Wait ~1 sec
+.5s blank
 
-The title.png fades in for a few sec, and then everything but "The Book of Chad" fades out. (title.png frame order: 0, 1, 2).
+1s - Book of Chad fades in (title.png fades in 0, 1, 2)
 
-Wait ~.5 sec?
+earth.png and moon.png appear from the bottom and rest below the title when the camera stops
 
-title.png fades in "Another Testament of the Church of Jesus Christ of Latter-day Saints" (title.png frame order: 3, 4, 5).
+3s - full title (including "Another Testament...", e.g. title.png frames 3, 4, 5) fades in, holds, and fades out (title.png frames 4, 3, 2 - "Book of Chad" remains)
 
-The camera hits 480px above the bottom of the background.png, where the Earth and Moon are in view below the title.
+earth.png and moon.png move straight down out of camera shot.
 
-The Earth and Moon scroll down out of camera view
+camera scrolls down once again to the very bottom of background.png
 
-I'm imaging the text below will fade in/out while the camera is slowly scrolling from the top of the background img down to the second to last screen, where the earth img and moon img come into view.
+the red moon comes into frame above the mountains (part of the background.png now as it's always static)
 
-Everything but "The Book of Chad" in title.png fades out (frame order: 4, 3, 2, where 2 stays for the remainder of the intro).
+temple.png scrolls up slightly whilst the camera is scrolling down (for vertical parallax) to rest with its bottom flush with the bottom of background.png
 
-** TEXT
+start.png & options.png both fade in at the bottom left of the screen in the empty space beside the temple & below the mountains
 
-1. (fade in) A Cabin Crunch Bros Translation (logo img) (fade out)
+selector.png spawns to the left of start.png
 
-2. (fade in) An account written by
+It's likely I'll have to make the background taller if the scrolling is too slow.
 
-THE HAND OF CHAD
+assets not used: moon_red.png & background_2_screens.png
 
-Upon plates
-
-taken from the plates of Nephi (account img) (fade out)
-
-3. (fade in) THE
-
-BOOK OF CHAD
-
-ANOTHER TESTAMENT OF
-
-THE CHURCH OF
-
-JESUS CHRIST
-
-OF LATTER-DAY SAINTS (title img)
-
-(all but THE BOOK OF CHAD fades out, the earth and moon imgs scroll down out of vision and disappear.
-
-The screen starts scrolling down once more to the bottom on Earth, including moon_red img in the sky, and showing Chad smoking on top of the temple.
-
-Start & options display, and the selector is used start or options.)
-
-This will probably take some effort getting all the timing right, and depending on how the song lines up we may want to tweak. Hopefully this is enough to get started for now.
+If we can fit it in, we can consider adding meteorites impacting earth all around you. meteorite_s.png = small, _m = medium, _l = large, _xl = x-large. I imagine randomized spawning points on screen, randomized sizes, and randomized impact spots on the ground in the background. explosion_s.png is for small meteorites, _m is for medium, _l is for large and x-large.
