@@ -1,4 +1,4 @@
-NPC (in city)
+*NPC (in city)*
 
 - My family and I are heading to Adam-ondi-Ahman just as soon as we can reunite with our resurrected ancestors! We’re even camping at the cemetery so we can try to beat the traffic.
 
