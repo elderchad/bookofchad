@@ -20,7 +20,7 @@
 
 - I'm so excited to make love to my wife's 18 year old body again. Woops, did I say that out loud?
 
-- ### Apostates
+### Apostates
 
 - I'm off to give my boyfriend a Priesthood Blessing with consecrated whiskey. Oh, aren't we so mischievous?!
 
